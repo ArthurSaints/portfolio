@@ -4,7 +4,7 @@
     "occupation": "Desenvolvedor ReactJS Full Stack e Co-Fundador da Muvy Inc.",
     "description": "Trabalhe duro. Divirta-se. Faça história.",
     "image": "foto-perfil.png",
-    "bio": "Meu nome é Arthur Santos, Sou um desenvolvedor ReactJS Full Stack. Atualmente estou trabalhando no projeto Muvy Inc. e como estagiário na Morning Star Consulting.",
+    "bio": "Meu nome é Arthur Santos, sou um desenvolvedor ReactJS Full Stack. Atualmente estou trabalhando no projeto Muvy Inc. e como estagiário na Morning Star Consulting!",
     "contactmessage": "Entre em contato comigo para saber mais detalhes sobre meu trabalho.",
     "email": "arthur.santos@muvy.me",
     "phone": "+55 21 99374-0026 ",
@@ -43,10 +43,16 @@
     "skillmessage": "Nível de domínio das minhas principais habilidades.",
     "education": [
       {
+        "school": "Colégio Pedro II - Tijuca",
+        "degree": "Ensino médio técnico em informática",
+        "graduated": "2015 - 2018",
+        "description": "Foi na escola que acabei tendo o meu primeiro contato com programação."
+      },
+      {
         "school": "Universidade Veiga de Almeida",
         "degree": "Cursando Administração de Empresas",
         "graduated": "2019 - Cursando",
-        "description": "Previsão de término: 2022"
+        "description": "Previsão de término: 2022."
       }
     ],
     "work": [
@@ -60,7 +66,7 @@
         "company": "Morning Star",
         "title": "Estagiário",
         "years": "Nov 2018 - Atual",
-        "description": "Na Morning Star trabalho diretamente com a área de Processos & Expansão. Sou um dos responsáveis por todo o processo de captação e participação em processo licitatórios. Fui um dos responsáveis pelo desenvolvimento de nossa Intranet. Fui eleito o MStar Hero 2019 - Reconhecimento pelo meu desempenho, dedicação e discplina para com a empresa."
+        "description": "Na Morning Star, eu trabalho diretamente com a área de Processos & Expansão. Sou um dos responsáveis por todas as etapas de captação e participação em processos licitatórios. Fui um dos responsáveis pelo desenvolvimento de nossa Intranet. Fui eleito o MStar Hero 2019 - Reconhecimento pelo meu desempenho, dedicação e discplina para com a empresa."
       }
     ],
     "skills": [
@@ -126,7 +132,7 @@
       },
       {
         "title": "Tic Tac Toe Básico",
-        "category": "Jogo da velha desenvolvido com ReactJS",
+        "category": "Jogo da velha desenvolvido com ReactJS - Resultado de um exercício básico oferecido pela reactjs.org",
         "image": "tictactoe.jpg",
         "url": "https://github.com/ArthurSaints/tic-tac-toe-react"
       }
